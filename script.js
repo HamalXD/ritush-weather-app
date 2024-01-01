@@ -53,6 +53,7 @@ async function checkWeather(city) {
   }
 
   console.log(weather_data);
+  
 }
 
 searchBtn.addEventListener("click", () => {
